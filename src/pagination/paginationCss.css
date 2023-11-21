@@ -1,0 +1,22 @@
+div{
+  text-align: center;
+  margin-top: 10px;
+}
+.b1{
+  color: blueviolet;
+  background-color: antiquewhite;
+  padding: 15px;
+  width: 100px;
+  border-color: white;
+  border-radius: 10px;
+  font-size: 15px;
+}
+.b2{
+  color: blueviolet;
+  background-color: antiquewhite;
+  padding: 15px;
+  width: 100px;
+  border-color: white;
+  border-radius: 10px;
+  font-size: 15px;
+}
