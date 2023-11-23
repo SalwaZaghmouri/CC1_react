@@ -2,7 +2,7 @@
 .css1{
     color: purple;
     background-color: antiquewhite;
-    width: 650px;
+    width: 400px;
     height: 40px;
     border-radius: 10px;
     border-color: white;
@@ -27,7 +27,7 @@ span{
     font-size: 17px;
     color: purple;
     margin-top: 8px;
-    margin-left: 530px;
+    margin-left: 5px;
 }
 .css2{
     width:80px;
